@@ -1,4 +1,3 @@
-
 <h1 align="center">این ریپازیتوری به شما کمک میکنه اولین pull request تون رو بفرستید</h1>
 
 <div align="center">
@@ -30,7 +29,7 @@
   <img src="https://github.com/nirbhayvashisht/first-pr-repo/blob/master/Resources/fork%20button.PNG" alt="fork button Image">
 </details>
 
-### Step 2
+### قدم دوم
 <!-- Now, you have to clone the forked repository. This will create a local copy of the project on your machine. -->
 حالا، باید پروژه ی fork شده رو clone کنید : این کار یه کپی داخلی از پروژه روی دستگاهتون ایجاد میکنه.
 
@@ -71,7 +70,7 @@
   <img src="https://github.com/nirbhayvashisht/first-pr-repo/blob/master/Resources/cloned.PNG" alt="fork button link">
 </details>
   
-### Step 3
+### قدم سوم
 <!-- Let's start working on the project now! -->
 حالا بیا روی پروژه کار کنیم.
 <!-- We need to change directory into cloned folder by typing the following command. -->
@@ -88,19 +87,19 @@ git branch YOUR_GITHUB_USERNAME-profile
 ```
 <!-- Obviously you'll have to replace the YOUR_GITHUB_USERNAME with your GitHub username.<br> -->
 واضحه که باید به جای YOUR_GITHUB_USERNAME اسم خودتون در گیتهاب رو بنویسید.<br>
-وقتی branchچدید رو ساختید ما branchرو از  master به branch جدید تغییر میدیم.
+وقتی branch چدید رو ساختید ما branch رو از master به branch جدید تغییر میدیم.
 کامند زیر را در ترمینال اجرا کنید.
 ```
 git checkout YOUR_BRANCH_NAME
 ```
 <details>
   <!-- <summary>It should look like this. (With your chosen names ofcourse)</summary> -->
-  <summary>باید چیزی شبیه به این باشد. )البته با اسم دلخواه خودتون(</summary>
+  <summary>باید چیزی شبیه به این باشد. (البته با اسم دلخواه خودتون)</summary>
   <img src="https://github.com/nirbhayvashisht/first-pr-repo/blob/master/Resources/branched.PNG" alt="Branching procedure">
 </details>
   
 
-### قدم 4
+### قدم چهارم
 <!-- - Move into the profiles directory in cloned project. -->
 - برید به دایرکتوری profile از پروژه ی clone شده
 ```
@@ -112,9 +111,9 @@ cd profiles
 touch YOUR_USERNAME.md
 ```
 <!-- - Navigate into the project directory (through your file manager) and open this file in your favourite editor. -->
-- برید به دایرکتوری پروژه. )با فایل منیجرتون( و فایل رو با ادیتور دلخواهتون ویرایش کنید.
+- برید به دایرکتوری پروژه (با فایل منیجرتون) و فایل رو با ادیتور دلخواهتون ویرایش کنید.
 <!-- - fill the details as shown below: -->
-- جزییات رو به شکل زیر پر بنویسید
+- جزییات رو به شکل زیر بنویسید
 ```
 ---
 username: YOUR_USER_NAME
@@ -125,13 +124,13 @@ fullname: YOUR_FULL_NAME
 - فایل را ذخیره کنید. <br>
 <details>
   <!-- <summary>Your file should look something like this(With your names ofcourse</summary> -->
-  <summary>فایل شما باید چیزی شبیه به این باشد. )با اسم شما البته( </summary>
+  <summary>فایل شما باید چیزی شبیه به این باشد. (با اسم شما البته) </summary>
   <img src="https://github.com/nirbhayvashisht/first-pr-repo/blob/master/Resources/editing%20markdown.PNG" alt="markdown file image">
 </details>
 
 <!-- **NOTE**: This is just a way of simulating - you making changes into the project file. --> 
 **نکته**: این تنها یک شبیه سازی است - شما دارید تغییراتی در فایل پروژه ایجاد میکنید.
-### قدم 5
+### قدم پنجم
 <!-- - Now we need to stage all the changes we made. --> 
 - حالا باید همه ی تغییرات را stage کنیم.
 <!-- - Open the terminal again and inside the project directory and execute following commands. -->
@@ -154,7 +153,7 @@ git commit -m "Hey, I just added my profile in the profiles directory"
 </details>
 
 
-### قدم 6
+### قدم ششم
 <!-- Let's push the changes to your repository on GitHub! --> 
 حالا بیاید تغییرات را در ریپازیتوری گیتهابتون ذخیره گنیم
 <!-- Execute the following command to push all the changes to the forked copy in ygour GitHub account. -->
@@ -162,7 +161,7 @@ git commit -m "Hey, I just added my profile in the profiles directory"
 ```
 git push -u origin YOUR_BRANCH_NAME
 ```
-### Step 7
+### قدم هفتم
 <!-- Now open your github account to make a pull request. -->
 حالا گیتهابتون رو باز کنید و یک pull request ایجاد کنید
 <!-- - Click on compare and pull request. -->
