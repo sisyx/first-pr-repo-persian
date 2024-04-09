@@ -26,43 +26,54 @@
 <!-- - Click on the fork button. -->
 <details open>
   <summary>Fork Button Image</summary>
+  <summary>عکس دکمه ی fork</summary>
   <img src="https://github.com/nirbhayvashisht/first-pr-repo/blob/master/Resources/fork%20button.PNG" alt="fork button Image">
 </details>
 
 ### Step 2
-Now, you have to clone the forked repository. This will create a local copy of the project on your machine.
+<!-- Now, you have to clone the forked repository. This will create a local copy of the project on your machine. -->
+حالا، باید پروژه ی fork شده رو clone : این کار یه کپی داخلی از پروژه روی دستگاهت ایجاد میکنه.
 
 You can do this in 2 ways:
+دوتا راه برای این کاری داری
 
 <details>
-  <summary>Code Button and Clone Options Image</summary>
-  <summary>عکس دکمه ی کد و گزینه ی Colne</summary>
+  <!-- <summary>Code Button and Clone Otions Image</summary> -->
+  <summary>عکس دکمه و گزینه ی clone</summary>
   <img src="https://github.com/nirbhayvashisht/first-pr-repo/blob/master/Resources/clone%20link.PNG" alt="Code Button Image">
 </details>
 
-1. OPTION 1
-  - Click on the clone button.
-  - Download the ZIP and then extract it.
-2. OPTION 2
-  - Click on the clone button.
-  - Copy the link under HTTPS section.
-  - Open terminal/git bash/command prompt.
-  - Type -
+1. روش 1
+  <!-- - Click on the clone button. -->
+  - روی دکمه ی clone کلیک کن.
+  <!-- - Download the ZIP and then extract it. -->
+  - فایل زیپ رو دانلود و سپس اکسترکتش کن.
+2. روش 2
+  <!-- - Click on the clone button. -->
+  - روی دتتکمه ی clone کلیک کن
+  <!-- - Copy the link under HTTPS section. -->
+  - لینک زیر قسمت HTTPS رو کپی کن
+  <!-- - Open terminal/git bash/command prompt. -->
+  - یه ترمینال/گیت بش/کامند پرامپت باز کن
+  <!-- - Type - -->
+  - بنویس
   ```
   git clone
   ```
-  - Now paste the link.
-  - The resulting command should look something like this:
+  - حالا لینک کپی شده رو جایگذاری کن.
+  - کامند نهایی باید پیزی شبیه به این باشد:
   ```
   git clone https://github.com/YOUR_USERNAME/first-pr-repo.git
   ```
 <details>
   <summary>Cloning though git bash</summary>
+  <summary>کلون کردن از طریق گیت بش</summary>
   <img src="https://github.com/nirbhayvashisht/first-pr-repo/blob/master/Resources/cloned.PNG" alt="fork button link">
 </details>
   
 ### Step 3
-Let's start working on the project now! 
+<!-- Let's start working on the project now! -->
+حالا بیا روی پروژه کار کنیم.
 We need to change directory into cloned folder by typing the following command.
 ```
 cd first-pr-repo
