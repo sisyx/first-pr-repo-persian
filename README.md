@@ -11,14 +11,19 @@
 </div>
 
 <div align="center">
-<h2> Hello Developer  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
-  <i>Let's help you submit your first pull request. Just follow the steps given below</i>
+<h2> سلام برنامه نویس  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
+  <!-- <i>Let's help you submit your first pull request. Just follow the steps given below</i> -->
+  <i>بیاید بهتون کمک کنیم اولین pull request تتون رو بفرستید. فقط قدم قدم مثل این پایین انجام بده.</i>
 </div>
 
-### Step 1
-The first step you want to do in-order to contribute to an open source project is to **_fork_** the project. This will create a copy of the project under your account.<br>
-You'll see the fork option on the top right hand side of the screen.
-- Click on the fork button.
+### قدم اول
+اولین قدم برای شما جهت contribute کردن به یک پروژه ی متن باز اینه که اون رو **_fork_** کنید. این یک کپی از پروژه تحت حسابت میسازی.</br>
+
+<!-- The first step you want to do in-order to contribute to an open source project is to **_fork_** the project. This will create a copy of the project under your account.<br> -->
+یه دکمه ی fork در بالا و سمت راست صفحه هست. 
+<!-- You'll see the fork option on the top right hand side of the screen. -->
+- روی دکمه کلیک کن
+<!-- - Click on the fork button. -->
 <details open>
   <summary>Fork Button Image</summary>
   <img src="https://github.com/nirbhayvashisht/first-pr-repo/blob/master/Resources/fork%20button.PNG" alt="fork button Image">
@@ -31,6 +36,7 @@ You can do this in 2 ways:
 
 <details>
   <summary>Code Button and Clone Options Image</summary>
+  <summary>عکس دکمه ی کد و گزینه ی Colne</summary>
   <img src="https://github.com/nirbhayvashisht/first-pr-repo/blob/master/Resources/clone%20link.PNG" alt="Code Button Image">
 </details>
 
