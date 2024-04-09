@@ -1,12 +1,12 @@
 <h1 align="center">این ریپازیتوری به شما کمک میکنه اولین pull request تون رو بفرستید</h1>
 
 <div align="center">
-  <a href="https://github.com/nirbhayvashisht/first-pr-repo/stargazers"><img src="https://img.shields.io/github/stars/nirbhayvashisht/first-pr-repo" alt="repo stars"></a>
-  <a href="https://github.com/nirbhayvashisht/first-pr-repo/network/members"><img src="https://img.shields.io/github/forks/nirbhayvashisht/first-pr-repo" alt="forks badge"></a>
-  <a href="https://github.com/nirbhayvashisht/first-pr-repo/pulls"><img src="https://img.shields.io/github/issues-pr/nirbhayvashisht/first-pr-repo" alt="pull requests badge"></a>
-  <a href="https://github.com/nirbhayvashisht/first-pr-repo/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues-raw/nirbhayvashisht/first-pr-repo"></a>
-  <a href="https://github.com/nirbhayvashisht/first-pr-repo/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/nirbhayvashisht/first-pr-repo"></a>
-  <a href="https://github.com/nirbhayvashisht/first-pr-repo/blob/master/LICENSE"><img alt="GitHub" src="https://img.shields.io/github/license/nirbhayvashisht/first-pr-repo"></a>
+  <a href="https://github.com/sisyx/first-pr-repo-persian/stargazers"><img src="https://img.shields.io/github/stars/nirbhayvashisht/first-pr-repo" alt="repo stars"></a>
+  <a href="https://github.com/sisyx/first-pr-repo-persiab/network/members"><img src="https://img.shields.io/github/forks/nirbhayvashisht/first-pr-repo" alt="forks badge"></a>
+  <a href="https://github.com/sisyx/first-pr-repo-persian/pulls"><img src="https://img.shields.io/github/issues-pr/nirbhayvashisht/first-pr-repo" alt="pull requests badge"></a>
+  <a href="https://github.com/sisyx/first-pr-repo-persian/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues-raw/nirbhayvashisht/first-pr-repo"></a>
+  <a href="https://github.com/sisyx/first-pr-repo-persian/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/nirbhayvashisht/first-pr-repo"></a>
+  <a href="https://github.com/sisyx/first-pr-repo-persian/blob/master/LICENSE"><img alt="GitHub" src="https://img.shields.io/github/license/nirbhayvashisht/first-pr-repo"></a>
 </div>
 
 <div align="center">
